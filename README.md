@@ -15,6 +15,9 @@ Repo for my course examples.
 # Useful YT videos
   
   https://www.youtube.com/c/koduje/featured
+  
+  CSS Animation Optimization and Performance 101
+  https://www.youtube.com/watch?v=0Xg6r_MKGJ4&feature=youtu.be&t=1066
 
 # Additional courses
   
