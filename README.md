@@ -7,3 +7,6 @@ Repo for my course examples.
   
   Specificity graph
   https://jonassebastianohlsson.com/specificity-graph/
+
+# Useful YT 
+  https://www.youtube.com/c/koduje/featured
