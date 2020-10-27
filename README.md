@@ -8,6 +8,9 @@ Repo for my course examples.
   
   Specificity graph
   https://jonassebastianohlsson.com/specificity-graph/
+  
+  Page speed validator
+  https://developers.google.com/speed/pagespeed/insights/
 
 # Useful YT videos
   
