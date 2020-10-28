@@ -2,6 +2,9 @@
 Repo for my course examples.
 
 # Additional knowledge
+  training site
+  https://flukeout.github.io/
+
   functions
   https://www.youtube.com/watch?v=gigtS_5KOqo
   
