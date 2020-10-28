@@ -28,6 +28,9 @@ Repo for my course examples.
   
   Page speed validator
   https://developers.google.com/speed/pagespeed/insights/
+  
+  Tiled map editor, maps on array
+  https://www.mapeditor.org/
 
 # Useful YT videos
   
