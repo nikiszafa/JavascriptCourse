@@ -2,7 +2,9 @@
 Repo for my course examples.
 
 # Additional knowledge
-
+  functions
+  https://www.youtube.com/watch?v=gigtS_5KOqo
+  
   async vs defer
   http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html 
   https://addyosmani.com/blog/script-priorities/
