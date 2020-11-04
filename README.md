@@ -1,6 +1,8 @@
 # JavascriptCourse
 Repo for my course examples.
-
+# Watch & Read later
+  https://www.youtube.com/watch?v=vDJpGenyHaA
+  
 # Additional knowledge
   training site
   https://flukeout.github.io/
